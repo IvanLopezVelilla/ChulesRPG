@@ -1,0 +1,16 @@
+# Java build output
+/bin/
+*.class
+
+# Local game data generated at runtime
+/config.txt
+/save.dat
+
+# Eclipse workspace/build-path metadata
+/.classpath
+/.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini

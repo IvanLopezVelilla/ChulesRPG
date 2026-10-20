@@ -1,0 +1,16 @@
+package entity;
+
+public enum TYPE {
+
+	PLAYER,
+	CONSUMABLE,
+	NPC,
+	ENEMY,
+	WEAPON,
+	SHIELD,
+	PICKUPITEM,
+	OBSTACLE,
+	LIGHT,
+	SHOE
+	
+}

@@ -1,0 +1,10 @@
+package combat;
+
+public enum COMBATSTATE {
+
+	MAINOPTIONSSTATE,
+	ITEMSTATE,
+	SKILLSTATE,
+	DIALOGUESTATE
+	
+}
